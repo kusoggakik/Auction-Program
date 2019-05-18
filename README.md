@@ -1,6 +1,4 @@
 # Auction-Program
-Command Line program that auctions dogs.
-
 
 Java command line program that user can auction dogs.
 
